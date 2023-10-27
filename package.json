@@ -10,11 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "-": "^0.0.1",
     "@metaplex-foundation/js": "^0.19.4",
     "@project-serum/borsh": "^0.2.5",
     "@solana/spl-token": "^0.3.8",
     "@solana/web3.js": "^1.78.4",
     "bs58": "^5.0.0",
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.3.1",
+    "g": "^2.0.1",
+    "solana-key-decoder-cli": "^1.0.5"
   }
 }
